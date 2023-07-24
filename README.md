@@ -1,5 +1,5 @@
 ### Git and Github Tutorials
 
-## Krish Naik
+## Divyansh Bisht
 
 ## Github Tutorials
